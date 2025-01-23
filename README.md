@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj...</h1>
 <h3 align="center">A passionate about web development, skilled in ReactJS, JavaScript, GSAP.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj-2024" alt="dhiraj-2024" /></a> </p>
 
 - 🌱 I’m currently learning **react js , Js**
 
