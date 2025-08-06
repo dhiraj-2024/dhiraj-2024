@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">Hi, I'm Dhiraj — a Full-Stack Web Developer passionate about building modern, responsive, and user-friendly applications.</h3>
 
 ---
