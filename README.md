@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/Production%20Apps-5%2B-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="Production apps"/>
 <img src="https://img.shields.io/badge/Research-ICIA--MET%202026-ec4899?style=for-the-badge&labelColor=1e1b4b" alt="Research"/>
-<img src="https://img.shields.io/badge/CGPA-8.5%2F10-a78bfa?style=for-the-badge&labelColor=1e1b4b" alt="CGPA"/>
+<img src="https://img.shields.io/badge/CGPA-8.0%2F10-a78bfa?style=for-the-badge&labelColor=1e1b4b" alt="CGPA"/>
 <img src="https://img.shields.io/badge/Internship-Gymnazien-f472b6?style=for-the-badge&labelColor=1e1b4b" alt="Internship"/>
 
 </div>
