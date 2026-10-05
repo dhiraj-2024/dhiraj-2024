@@ -218,8 +218,6 @@ A full-stack admin platform that digitizes academy operations.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-2024&bg_color=13111c&color=c4b5fd&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
-
 </div>
 
 ---
