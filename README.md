@@ -1,24 +1,36 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dhiraj%20Barwal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,50:6d28d9,100:ec4899&height=240&section=header&text=Dhiraj%20Barwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=24" alt="Header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+production-ready+web+apps;React+%7C+Node.js+%7C+Django+%7C+PostgreSQL+%7C+MongoDB;First+author+%40+ICIA-MET+2026+%F0%9F%93%84;Open+to+Full-Time+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=760&lines=Building+production-ready+web+apps;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;Creator+of+OnlineSeva24+%F0%9F%87%AE%F0%9F%87%B3;First+author+%40+ICIA-MET+2026+%F0%9F%93%84;Open+to+Full-Time+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<a href="https://dhiraj-barwal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/dhiraj-barwal-b84a8328b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:code.dhiraj18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/dhiraj-2024"><img src="https://img.shields.io/badge/GitHub-dhiraj--2024-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhiraj-2024&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<a href="https://dhiraj-barwal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/dhiraj-barwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn"/></a>
+<a href="mailto:rajputdhiraj1852@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email"/></a>
+<a href="https://github.com/dhiraj-2024"><img src="https://img.shields.io/badge/GitHub-dhiraj--2024-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dhiraj-2024&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Location-Chh.%20Sambhajinagar%2C%20India-f97316?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-Chh.%20Sambhajinagar%2C%20India-f59e0b?style=flat-square" alt="Location"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= AT A GLANCE ========================= -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Production%20Apps-5%2B-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="Production apps"/>
+<img src="https://img.shields.io/badge/Research-ICIA--MET%202026-ec4899?style=for-the-badge&labelColor=1e1b4b" alt="Research"/>
+<img src="https://img.shields.io/badge/CGPA-8.5%2F10-a78bfa?style=for-the-badge&labelColor=1e1b4b" alt="CGPA"/>
+<img src="https://img.shields.io/badge/Internship-Gymnazien-f472b6?style=for-the-badge&labelColor=1e1b4b" alt="Internship"/>
 
 </div>
 
@@ -26,17 +38,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** and **B.Tech (Computer Science & Design) graduate** who builds and ships end-to-end web applications, from requirements and database design to secure APIs and cloud deployment.
+I'm a **Full Stack Developer** and **B.Tech (Computer Science & Design) graduate** who builds and ships end-to-end web applications: from requirements and database design to secure APIs, payments and cloud deployment.
 
 I've delivered **5+ production-ready applications** through freelance work and a software development internship, and I'm the **first author and lead developer of a research paper** on automated timetable generation, **accepted at ICIA-MET 2026** and submitted for IEEE publication.
+
+My latest project, **OnlineSeva24**, is a mobile-first, bilingual (Marathi/English) platform that replaces cyber-cafe visits for everyday document and form services.
 
 ```yaml
 name:        Dhiraj Barwal
 role:        Full Stack Developer
-education:   B.Tech, Computer Science & Design (MET Institute of Technology, Nashik) — CGPA 8.0/10
+education:   B.Tech, Computer Science & Design (MET Institute of Technology, Nashik) — CGPA 8.0/10, class of 2026
 experience:  Freelance Full Stack Developer (Oct 2023 – Present) + Software Developer Intern (2024)
 research:    First author — ICIA-MET 2026 (OptiTime)
-focus:       React · Node.js · Django · REST APIs · PostgreSQL · MongoDB
+building:    OnlineSeva24 — digital service & document assistance platform
+focus:       Next.js · React · Node.js · TypeScript · PostgreSQL · MongoDB
 learning:    Java · DSA · System Design · Docker · CI/CD
 looking_for: Full-time Software Developer / Full Stack Developer roles
 also:        Available for freelance & project-based work
@@ -50,19 +65,19 @@ also:        Available for freelance & project-based work
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,java,python&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma&theme=dark" alt="Backend"/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="Databases"/>
 
 **Tools & Deployment**
 
@@ -77,10 +92,11 @@ also:        Available for freelance & project-based work
 
 | Area | Skills |
 |---|---|
-| **Languages** | JavaScript (ES6+), Python, Java, SQL |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Web Design |
-| **Backend** | Node.js, Express.js, Django, REST API Design, JWT Authentication, RBAC |
-| **Databases** | MongoDB (Aggregation Pipelines), PostgreSQL, MySQL, Database Design |
+| **Languages** | JavaScript (ES6+), TypeScript, Python, Java, SQL |
+| **Frontend** | React.js, Next.js (App Router), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Web Design |
+| **Backend** | Node.js, Express.js, Django, REST API Design, JWT Authentication, RBAC, Zod validation |
+| **Databases** | PostgreSQL (Prisma ORM), MongoDB (Aggregation Pipelines), MySQL, Database Design |
+| **Security** | AES-256 encryption, RBAC, rate limiting, input validation, secure sessions |
 | **Cloud & DevOps** | Vercel, Hostinger VPS, Git, GitHub, CI/CD basics |
 | **Tools** | Postman, Cloudinary, Figma, Agile / SDLC |
 | **Integrations** | Cashfree Payment Gateway, EmailJS |
@@ -90,6 +106,24 @@ also:        Available for freelance & project-based work
 ---
 
 ## 🚀 Featured Projects
+
+### 🧾 OnlineSeva24 — Digital Service & Document Assistance Platform
+> 🔥 *My latest project, built for real users and real service workflows*
+
+<!-- Add the live link here once the site is public: [🌐 Live Site](https://your-live-link) -->
+
+A mobile-first platform that lets users complete common document, application and form services online, instead of visiting cyber cafes or service centres. Designed for mobile users in Maharashtra with **bilingual Marathi/English** interfaces.
+
+- **Credit Bill Generator:** Anganwadi workers fill one form, preview, pay a small fee and download a standardized two-page PDF
+- **Form-filling services:** PMMVY (Matru Vandana), Anganwadi FSSAI food licence, PAN card and Voter ID assistance
+- **Smart document capture:** automatic image cropping with manual adjustment for mobile uploads
+- **Admin system:** secure authentication, role-based access, service-wise request management, payment tracking and audit logging
+- **Security-first:** AES-256 encryption for sensitive data, Zod validation, rate limiting and private document storage
+- **Payments** via Cashfree · built as a scalable system where new services can be added independently
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `Prisma` `Cashfree` `Vercel`
+
+---
 
 ### ⏱️ OptiTime — Automated Timetable Generation System
 > 📄 *Research paper accepted at **ICIA-MET 2026**, submitted for IEEE publication*
@@ -128,16 +162,25 @@ A full-stack admin platform that digitizes academy operations.
 
 ---
 
+### 🤸 More Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Maharashtra Gymnastic Association Website** | Official association website: responsive design, easy navigation, live event updates and contact forms (built as a freelance project) | `React` `CSS` |
+| **Product Catalog & Inquiry Website** | Responsive product showcase with an inquiry workflow and a Local Storage cart, no account needed | `React.js` `EmailJS` |
+
+---
 
 ## 💼 Experience
 
 <table>
 <tr>
-<td width="180"><b>Oct 2023 – Jan 2026</b></td>
+<td width="180"><b>Oct 2023 – Present</b></td>
 <td>
-<b>Full Stack Developer (Freelance)</b><br/>
+<b>Freelance Full Stack Developer (Project-Based)</b><br/>
+• Built <b>OnlineSeva24</b>, a bilingual digital services platform with Next.js, TypeScript, PostgreSQL and Prisma<br/>
 • Delivered <b>5+ full stack applications</b> end-to-end, from requirements to deployment<br/>
-• Built RESTful APIs with relational and NoSQL schemas for authentication, booking and content workflows<br/>
+• Built REST APIs with relational and NoSQL schemas for authentication, booking and content workflows<br/>
 • Implemented <b>role-based access control</b> with JWT to protect user data<br/>
 • Managed code with Git/GitHub and deployed on Vercel and Hostinger VPS
 </td>
@@ -147,6 +190,7 @@ A full-stack admin platform that digitizes academy operations.
 <td>
 <b>Software Developer Intern — Gymnazien Pvt. Ltd.</b><br/>
 • Built <b>40+ reusable React.js components</b>, cutting duplicate UI code by about <b>20%</b><br/>
+• Developed UI for a gymnastics judging platform: judge dashboard, scoring panel and chief-judge approval screens<br/>
 • Improved form validation across multiple modules<br/>
 • Worked in Agile sprints across design, development, testing and production deployment
 </td>
@@ -159,7 +203,7 @@ A full-stack admin platform that digitizes academy operations.
 
 | | |
 |---|---|
-| 🎓 **B.Tech — Computer Science & Design** | MET Institute of Technology, Nashik (DBATU) · 2022 – 2026 · **CGPA 8.0/10** |
+| 🎓 **B.Tech — Computer Science & Design** | MET Institute of Technology, Nashik (DBATU) · 2022 – 2026 · **CGPA 8.5/10** |
 | 📜 **JavaScript Bootcamp** | LetsUpgrade · 2025 |
 | 🔬 **Research** | First author — *OptiTime*, ICIA-MET 2026 |
 
@@ -169,12 +213,12 @@ A full-stack admin platform that digitizes academy operations.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhiraj-2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhiraj-2024&show_icons=true&hide_border=true&count_private=true&bg_color=13111c&title_color=c4b5fd&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=dhiraj-2024&hide_border=true&background=13111c&stroke=2e1065&ring=a78bfa&fire=ec4899&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=c4b5fd&sideLabels=a1a1aa&dates=71717a" alt="GitHub streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-2024&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-2024&bg_color=13111c&color=c4b5fd&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 
 </div>
 
@@ -196,14 +240,14 @@ I'm actively looking for **full-time Software Developer / Full Stack Developer**
 
 <div align="center">
 
-<a href="mailto:code.dhiraj18@gmail.com"><img src="https://img.shields.io/badge/Email-code.dhiraj18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/dhiraj-barwal-b84a8328b"><img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Barwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://dhiraj-barwal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dhiraj--barwal--portfolio.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:rajputdhiraj1852@gmail.com"><img src="https://img.shields.io/badge/Email-rajputdhiraj1852%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/dhiraj-barwal"><img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Barwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="LinkedIn"/></a>
+<a href="https://dhiraj-barwal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-dhiraj--barwal--portfolio.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/></a>
 
 <br/><br/>
 
 *⭐ If you like my work, feel free to star a repo. Thanks for stopping by!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ec4899,50:6d28d9,100:1e1b4b&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
